@@ -1,4 +1,2 @@
 - source: project
-  netlify:
-    - id: ""
-      url: ""
+

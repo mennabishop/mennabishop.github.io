@@ -4,60 +4,27 @@ toc: true
 toc-location: right
 ---
 
+## Work in Progress
+
+**Demand for Advance Payments: Experimental Evidence from India's Brick Kilns**
+
+**Female Wage Labour and Fertility: Evidence from the Cut-Flower Industry in Kenya**
+*With Niclas Moneke and Céline Zipfel.*
+
+**Jobs to End Poverty: Evidence from Bangladesh**
+*With Oriana Bandiera, Jack Thiemel, Robin Burgess, Stefano Caria and Munshi Sulaiman.*
+
 ## Publications
 
-**Trade Networks and the Diffusion of Institutions**
-*With Jane Doe and John Smith.*
-*Journal of Political Economy*, 2025, 133(4): 1123–1178.
-[[Published]](#) [[Working Paper]](#) [[Replication]](#)
+**Distributional and Climate Implications of Policy Responses to the Energy Crisis: Lessons from the UK**
+*With Thiemo Fetzer and Ludovica Gazzè.*
+*Economic Policy*, 2024, 39(120): 711–756.
+[[Paper]](https://academic.oup.com/economicpolicy/article/39/120/711/7709888) 
 
-**Colonial Railroads and Long-Run Development in Sub-Saharan Africa**
-*With Alex Researcher.*
-*American Economic Review*, 2024, 114(8): 2455–2502.
-[[Published]](#) [[Working Paper]](#) [[Slides]](#)
 
-**State Capacity and the Provision of Public Goods**
-*Review of Economic Studies*, 2023, 90(3): 1456–1499.
-[[Published]](#) [[Working Paper]](#)
+## Book Chapters
 
-## Working Papers
-
-**The Political Economy of Resource Booms**
-*With Maria Coauthor.*
-*Revise and Resubmit, Quarterly Journal of Economics.*
-[[PDF]](#) [[Slides]](#)
-
-> Resource booms reshape the political incentives of incumbent governments.
-> We use newly digitized data on mineral discoveries from 1960–2010 to
-> show that windfalls increase incumbency advantage by 12 percentage
-> points, with effects concentrated in autocratic regimes.
-
-**Migration, Remittances, and Local Labor Markets**
-*With Pat Coauthor and Sam Coauthor.*
-*Submitted.*
-[[PDF]](#) [[Appendix]](#)
-
-> We study the local labor market effects of large-scale outmigration
-> using a shift-share design exploiting destination-country shocks.
-> A 10% emigration shock raises local wages by 2.4% on average.
-
-**Information, Voting, and Accountability**
-*With Lee Researcher.*
-[[PDF]](#)
-
-> A field experiment in collaboration with a national audit office tests
-> whether disclosing local government performance scorecards changes
-> voter behavior. We find significant effects on turnout but mixed
-> effects on incumbent vote share.
-
-## Works in Progress
-
-**Historical Land Tenure and Modern Conflict**
-*With Robin Coworker.*
-
-**The Effect of Mobile Banking on Female Entrepreneurship**
-
-**Climate Shocks and Internal Migration in South Asia**
-*With three coauthors.*
-
-**Bureaucratic Selection and Public Service Delivery**
+**Technology and Development**
+*With Robin Burgess and Céline Zipfel.*
+In Madon, T., Gadgil, A. J., Anderson, R., Casaburi, L., Lee, K., Rezaee, A. (eds), *Introduction to Development Engineering*. Springer, Cham, 2023.
+[[Chapter]](https://link.springer.com/content/pdf/10.1007/978-3-030-86065-3.pdf)

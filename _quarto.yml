@@ -13,7 +13,7 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: assets/cv.pdf
+      - href: cv_may_26.pdf
         text: CV
         target: _blank
   page-footer:
