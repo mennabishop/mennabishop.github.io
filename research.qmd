@@ -1,0 +1,63 @@
+---
+title: "Research"
+toc: true
+toc-location: right
+---
+
+## Publications
+
+**Trade Networks and the Diffusion of Institutions**
+*With Jane Doe and John Smith.*
+*Journal of Political Economy*, 2025, 133(4): 1123–1178.
+[[Published]](#) [[Working Paper]](#) [[Replication]](#)
+
+**Colonial Railroads and Long-Run Development in Sub-Saharan Africa**
+*With Alex Researcher.*
+*American Economic Review*, 2024, 114(8): 2455–2502.
+[[Published]](#) [[Working Paper]](#) [[Slides]](#)
+
+**State Capacity and the Provision of Public Goods**
+*Review of Economic Studies*, 2023, 90(3): 1456–1499.
+[[Published]](#) [[Working Paper]](#)
+
+## Working Papers
+
+**The Political Economy of Resource Booms**
+*With Maria Coauthor.*
+*Revise and Resubmit, Quarterly Journal of Economics.*
+[[PDF]](#) [[Slides]](#)
+
+> Resource booms reshape the political incentives of incumbent governments.
+> We use newly digitized data on mineral discoveries from 1960–2010 to
+> show that windfalls increase incumbency advantage by 12 percentage
+> points, with effects concentrated in autocratic regimes.
+
+**Migration, Remittances, and Local Labor Markets**
+*With Pat Coauthor and Sam Coauthor.*
+*Submitted.*
+[[PDF]](#) [[Appendix]](#)
+
+> We study the local labor market effects of large-scale outmigration
+> using a shift-share design exploiting destination-country shocks.
+> A 10% emigration shock raises local wages by 2.4% on average.
+
+**Information, Voting, and Accountability**
+*With Lee Researcher.*
+[[PDF]](#)
+
+> A field experiment in collaboration with a national audit office tests
+> whether disclosing local government performance scorecards changes
+> voter behavior. We find significant effects on turnout but mixed
+> effects on incumbent vote share.
+
+## Works in Progress
+
+**Historical Land Tenure and Modern Conflict**
+*With Robin Coworker.*
+
+**The Effect of Mobile Banking on Female Entrepreneurship**
+
+**Climate Shocks and Internal Migration in South Asia**
+*With three coauthors.*
+
+**Bureaucratic Selection and Public Service Delivery**

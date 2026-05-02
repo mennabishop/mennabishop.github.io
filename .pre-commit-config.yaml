@@ -1,0 +1,33 @@
+repos:
+  - repo: https://github.com/jolars/panache
+    rev: v2.41.0
+    hooks:
+      - id: panache-format
+
+  - repo: https://github.com/lorenzwalthert/precommit
+    rev: v0.4.3.9021
+    hooks:
+      - id: style-files
+        args: [--style_pkg=styler, --style_fun=tidyverse_style]
+      - id: parsable-R
+      - id: no-browser-statement
+      - id: no-debug-statement
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-added-large-files
+        args: [--maxkb=2000]
+      - id: check-yaml
+      - id: check-merge-conflict
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+
+  - repo: local
+    hooks:
+      - id: quarto-render
+        name: quarto render
+        entry: quarto render
+        language: system
+        pass_filenames: false
+        files: \.(qmd|yml|css)$

@@ -1,0 +1,49 @@
+---
+title: "Christopehr Steinberg"
+image: assets/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:chrisssteinberg@gmail.com"
+    - icon: file-earmark-pdf
+      text: CV
+      href: assets/cv.pdf
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/
+---
+
+I am an Economist working on questions at the intersection of development,
+political economy, and international trade. My research examines how state
+capacity, institutions, and historical legacies shape long-run economic
+outcomes in low- and middle-income countries.
+
+I am currently a Postdoctoral Fellow at a leading research institution,
+where I combine archival data, administrative records, and modern causal
+inference methods to study the political economy of development.
+
+Before my current position, I completed a PhD in Economics. I hold
+additional degrees in Economics and Public Policy.
+
+You can find my recent work on the [research](research.qmd) page, or
+download my [CV](assets/cv.pdf).
+
+## Education
+
+**Ph.D. in Economics** — Some University, 2024
+
+**M.Sc. in Economics** — Another University, 2019
+
+**B.A. in Economics** — Undergraduate University, 2017
+
+## Contact
+
+chrisssteinberg@gmail.com

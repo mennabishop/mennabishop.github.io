@@ -1,0 +1,6 @@
+flavor = "quarto"
+line-width = 80
+line-ending = "auto"
+
+[format]
+wrap = "reflow"

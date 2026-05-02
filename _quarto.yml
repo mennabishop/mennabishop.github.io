@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: auto
+
+website:
+  title: "Christopehr Steinberg"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: assets/cv.pdf
+        text: CV
+        target: _blank
+  page-footer:
+    left: "© 2026 Christopehr Steinberg"
+    right:
+      - icon: envelope
+        href: "mailto:chrisssteinberg@gmail.com"
+      - icon: github
+        href: "https://github.com/"
+      - icon: twitter
+        href: "https://twitter.com/"
+
+format:
+  html:
+    theme: lux
+    toc: false
+    grid:
+      body-width: 800px
+
+engine: knitr
