@@ -6,7 +6,7 @@ execute:
   freeze: auto
 
 website:
-  title: "Christopehr Steinberg"
+  title: "Menna Bishop"
   navbar:
     left:
       - href: index.qmd
@@ -17,14 +17,8 @@ website:
         text: CV
         target: _blank
   page-footer:
-    left: "© 2026 Christopehr Steinberg"
-    right:
-      - icon: envelope
-        href: "mailto:chrisssteinberg@gmail.com"
-      - icon: github
-        href: "https://github.com/"
-      - icon: twitter
-        href: "https://twitter.com/"
+    left: "© 2026 Menna Bishop"
+    right:  "menna[dot]bishop[at]warwick.ac.uk"
 
 format:
   html:

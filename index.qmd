@@ -1,48 +1,30 @@
 ---
-title: "Christopehr Steinberg"
-image: assets/profile.jpg
-about:
-  template: trestles
-  image-shape: round
-  image-width: 14em
-  links:
-    - icon: envelope
-      text: Email
-      href: "mailto:test@gmail.com"
-    - icon: file-earmark-pdf
-      text: CV
-      href: assets/cv.pdf
-      target: _blank
-    - icon: github
-      text: GitHub
-      href: https://github.com/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/
+title: "Research"
+toc: true
+toc-location: right
 ---
 
-I am an Economist working on questions at the intersection of development,
-political economy, and international trade. My research examines how state
-capacity, institutions, and historical legacies shape long-run economic
-outcomes in low- and middle-income countries.
+## Work in Progress
 
-I am currently a Postdoctoral Fellow at a leading research institution,
-where I combine archival data, administrative records, and modern causal
-inference methods to study the political economy of development.
+**Demand for Advance Payments: Experimental Evidence from India's Brick Kilns**
 
-Before my current position, I completed a PhD in Economics. I hold
-additional degrees in Economics and Public Policy.
+**Female Wage Labour and Fertility: Evidence from the Cut-Flower Industry in Kenya**
+*With Niclas Moneke and Céline Zipfel.*
 
-You can find my recent work on the [research](research.qmd) page, or
-download my [CV](assets/cv.pdf).
+**Jobs to End Poverty: Evidence from Bangladesh**
+*With Oriana Bandiera, Jack Thiemel, Robin Burgess, Stefano Caria and Munshi Sulaiman.*
 
-## Education
+## Publications
 
-**Ph.D. in Economics** — Some University, 2024
+**Distributional and Climate Implications of Policy Responses to the Energy Crisis: Lessons from the UK**
+*With Thiemo Fetzer and Ludovica Gazzè.*
+*Economic Policy*, 2024, 39(120): 711–756.
+[[Published]](https://academic.oup.com/economicpolicy/article/39/120/711/7709888) [[Working Paper]](https://cepr.org/publications/dp17990)
 
-**M.Sc. in Economics** — Another University, 2019
 
-**B.A. in Economics** — Undergraduate University, 2017
+## Book Chapters
 
-## Contact
-
+**Technology and Development**
+*With Robin Burgess and Céline Zipfel.*
+In Madon, T., Gadgil, A. J., Anderson, R., Casaburi, L., Lee, K., Rezaee, A. (eds), *Introduction to Development Engineering*. Springer, Cham, 2023.
+[[Chapter]](https://link.springer.com/content/pdf/10.1007/978-3-030-86065-3.pdf)
