@@ -8,7 +8,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: "mailto:chrisssteinberg@gmail.com"
+      href: "mailto:test@gmail.com"
     - icon: file-earmark-pdf
       text: CV
       href: assets/cv.pdf
