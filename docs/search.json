@@ -1,73 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Menna Bishop",
-    "section": "",
-    "text": "I am a PhD Candidate in Economics and the University of Warwick.\nMy research is in Development and Environmental Economics.\nYou can find my recent work on the research page and download my CV.\nMy email is menna[dot]bishop[at]warwick.ac.uk."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Christopehr Steinberg",
-    "section": "Education",
-    "text": "Education\nPh.D. in Economics — Some University, 2024\nM.Sc. in Economics — Another University, 2019\nB.A. in Economics — Undergraduate University, 2017"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Christopehr Steinberg",
-    "section": "Contact",
-    "text": "Contact"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
     "text": "Demand for Advance Payments: Experimental Evidence from India’s Brick Kilns\nFemale Wage Labour and Fertility: Evidence from the Cut-Flower Industry in Kenya With Niclas Moneke and Céline Zipfel.\nJobs to End Poverty: Evidence from Bangladesh With Oriana Bandiera, Jack Thiemel, Robin Burgess, Stefano Caria and Munshi Sulaiman."
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nDistributional and Climate Implications of Policy Responses to the Energy Crisis: Lessons from the UK With Thiemo Fetzer and Ludovica Gazzè. Economic Policy, 2024, 39(120): 711–756. [Published] [Working Paper]"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "Working Papers",
-    "text": "Working Papers\nThe Political Economy of Resource Booms With Maria Coauthor. Revise and Resubmit, Quarterly Journal of Economics. [PDF] [Slides]\n\nResource booms reshape the political incentives of incumbent governments. We use newly digitized data on mineral discoveries from 1960–2010 to show that windfalls increase incumbency advantage by 12 percentage points, with effects concentrated in autocratic regimes.\n\nMigration, Remittances, and Local Labor Markets With Pat Coauthor and Sam Coauthor. Submitted. [PDF] [Appendix]\n\nWe study the local labor market effects of large-scale outmigration using a shift-share design exploiting destination-country shocks. A 10% emigration shock raises local wages by 2.4% on average.\n\nInformation, Voting, and Accountability With Lee Researcher. [PDF]\n\nA field experiment in collaboration with a national audit office tests whether disclosing local government performance scorecards changes voter behavior. We find significant effects on turnout but mixed effects on incumbent vote share."
-  },
-  {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
-    "section": "Works in Progress",
-    "text": "Works in Progress\nHistorical Land Tenure and Modern Conflict With Robin Coworker.\nThe Effect of Mobile Banking on Female Entrepreneurship\nClimate Shocks and Internal Migration in South Asia With three coauthors.\nBureaucratic Selection and Public Service Delivery"
-  },
-  {
-    "objectID": "index.html#work-in-progress",
-    "href": "index.html#work-in-progress",
-    "title": "Research",
-    "section": "",
-    "text": "Demand for Advance Payments: Experimental Evidence from India’s Brick Kilns\nFemale Wage Labour and Fertility: Evidence from the Cut-Flower Industry in Kenya With Niclas Moneke and Céline Zipfel.\nJobs to End Poverty: Evidence from Bangladesh With Oriana Bandiera, Jack Thiemel, Robin Burgess, Stefano Caria and Munshi Sulaiman."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nDistributional and Climate Implications of Policy Responses to the Energy Crisis: Lessons from the UK With Thiemo Fetzer and Ludovica Gazzè. Economic Policy, 2024, 39(120): 711–756. [Published] [Working Paper]"
-  },
-  {
-    "objectID": "index.html#book-chapters",
-    "href": "index.html#book-chapters",
-    "title": "Research",
-    "section": "Book Chapters",
-    "text": "Book Chapters\nTechnology and Development With Robin Burgess and Céline Zipfel. In Madon, T., Gadgil, A. J., Anderson, R., Casaburi, L., Lee, K., Rezaee, A. (eds), Introduction to Development Engineering. Springer, Cham, 2023. [Chapter]"
   },
   {
     "objectID": "research.html#work-in-progress",
@@ -77,10 +14,24 @@
     "text": "Demand for Advance Payments: Experimental Evidence from India’s Brick Kilns\nFemale Wage Labour and Fertility: Evidence from the Cut-Flower Industry in Kenya With Niclas Moneke and Céline Zipfel.\nJobs to End Poverty: Evidence from Bangladesh With Oriana Bandiera, Jack Thiemel, Robin Burgess, Stefano Caria and Munshi Sulaiman."
   },
   {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nDistributional and Climate Implications of Policy Responses to the Energy Crisis: Lessons from the UK With Thiemo Fetzer and Ludovica Gazzè. Economic Policy, 2024, 39(120): 711–756. [Paper]"
+  },
+  {
     "objectID": "research.html#book-chapters",
     "href": "research.html#book-chapters",
     "title": "Research",
     "section": "Book Chapters",
     "text": "Book Chapters\nTechnology and Development With Robin Burgess and Céline Zipfel. In Madon, T., Gadgil, A. J., Anderson, R., Casaburi, L., Lee, K., Rezaee, A. (eds), Introduction to Development Engineering. Springer, Cham, 2023. [Chapter]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Menna Bishop",
+    "section": "",
+    "text": "I am a PhD Candidate in Economics and the University of Warwick.\nMy research is in Development and Environmental Economics.\nYou can find my recent work on the research page and download my CV.\nMy email is menna[dot]bishop[at]warwick.ac.uk."
   }
 ]
