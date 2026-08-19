@@ -18,3 +18,19 @@
 /renv/staging/
 
 **/*.quarto_ipynb
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# R default graphics device output
+Rplots.pdf

@@ -7,11 +7,13 @@ about:
   image-width: 14em
 ---
 
-I am a PhD Candidate in Economics and the University of Warwick. 
+I am a PhD Candidate in Economics at the University of Warwick.
 
-My research is in Development and Environmental Economics. 
+I am also an Affiliated Scholar at the [Data, Policy and Innovation Centre](https://www.datapolicyinnovationcentre.org/), a partnership between the Government of Odisha and the University of Chicago Trust.
+
+My research is in Development and Environmental Economics.
 
 You can find my recent work on the [research](research.qmd) page and
-download my [CV](cv_may_26.pdf).
+download my [CV](cv_aug_26.pdf).
 
 My email is menna[dot]bishop[at]warwick.ac.uk.

@@ -13,12 +13,11 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: cv_may_26.pdf
+      - href: cv_aug_26.pdf
         text: CV
         target: _blank
   page-footer:
     left: "© 2026 Menna Bishop"
-    right:  "menna[dot]bishop[at]warwick.ac.uk"
 
 format:
   html:
