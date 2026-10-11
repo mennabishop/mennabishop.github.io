@@ -8,11 +8,14 @@ execute:
 website:
   title: "Menna Bishop"
   navbar:
+    background: "#A24F46"
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv_oct_26.pdf
         text: CV
         target: _blank
@@ -22,6 +25,7 @@ website:
 format:
   html:
     theme: lux
+    css: styles.css
     toc: false
     grid:
       body-width: 800px
