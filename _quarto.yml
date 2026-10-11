@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - jmp/index.html
+    - cv/index.html
+    - files/*.pdf
+    - robots.txt
 
 execute:
   freeze: auto
@@ -16,7 +21,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: cv_oct_26.pdf
+      - href: files/Bishop_CV.pdf
         text: CV
         target: _blank
   page-footer:

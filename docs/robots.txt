@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /files/Bishop_JMP.pdf
+Disallow: /jmp/

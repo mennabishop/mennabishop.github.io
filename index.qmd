@@ -16,6 +16,6 @@ My supervisors are [Anant Sudardhan](https://www.anantsudarshan.com/), [Stefano 
 I am also an Affiliated Scholar at the [Data, Policy and Innovation Centre](https://www.datapolicyinnovationcentre.org/).
 
 You can find my recent work on the [research](research.qmd) page and
-download my [CV](cv_oct_26.pdf).
+download my [CV](files/Bishop_CV.pdf).
 
 My email is menna[dot]bishop[at]warwick.ac.uk.
