@@ -7,7 +7,7 @@ about:
   image-width: 14em
 ---
 
-I am a PhD Candidate in Economics at the University of Warwick. I am on the 2026-27 job market. 
+I am a PhD Candidate in Economics at the University of Warwick. **I am on the 2026-27 job market**. 
 
 My research is in Development, Labour and Environmental Economics.
 
