@@ -6,12 +6,14 @@ project:
     - cv/index.html
     - files/*.pdf
     - robots.txt
+    - google*.html
 
 execute:
   freeze: auto
 
 website:
   title: "Menna Bishop"
+  site-url: "https://mennabishop.github.io"
   navbar:
     background: "#A24F46"
     left:
