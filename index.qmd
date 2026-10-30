@@ -1,6 +1,5 @@
 ---
 title: "Menna Bishop"
-description: "Menna Bishop is a PhD candidate in economics at the University of Warwick, on the 2026-27 job market. Research in development, labour and environmental economics."
 image: picture_new.jpg
 about:
   template: trestles
