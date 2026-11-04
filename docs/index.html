@@ -130,6 +130,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Menna Bishop</h1>
+<p class="subtitle lead">menna.bishop [at] warwick.ac.uk</p>
 </div>
 <div class="quarto-title-meta">
   </div>
@@ -141,7 +142,28 @@ ul.task-list li input[type="checkbox"] {
 <p>My supervisors are <a href="https://www.anantsudarshan.com/">Anant Sudarshan</a>, <a href="https://www.stefanocaria.com/">Stefano Caria</a> and <a href="https://profiles.warwick.ac.uk/ecsgam-sharun-mukand/about">Sharun Mukand</a>.</p>
 <p>I am also an Affiliated Scholar at the <a href="https://www.datapolicyinnovationcentre.org/">Data, Policy and Innovation Centre</a>.</p>
 <p>You can find my recent work on the <a href="./research.html">research</a> page and download my <a href="files/Bishop_CV.pdf">CV</a>.</p>
-<p>My email is menna[dot]bishop[at]warwick.ac.uk.</p>
+<details class="jmp-box">
+<summary>
+<span class="jmp-label">Job Market Paper</span>
+<span class="jmp-title">Paying to Be Paid Early: Debt Bondage in India's Brick Kilns</span>
+<span class="jmp-actions">
+<span class="abstract-toggle">Abstract</span>
+<a class="paper-link" href="files/Bishop_JMP.pdf" target="_blank">Paper</a>
+</span>
+</summary>
+<p class="jmp-abstract">Bonded workers take credit from their employer, voluntarily forgoing the freedom to leave until this debt is repaid. This paper asks why, using India's brick kilns as a setting. Kilns recruit their 15 million migrant workers with advance payments, later deducted from earnings. Larger advances carry implicit interest: workers taking them are paid less per brick. Partnering with employers, I advertise real vacancies with randomised terms to 1,494 Odisha households. Applicants favour high advance contracts by 10 percentage points, implicitly borrowing at over 700% annually. Demand concentrates amongst credit constrained workers and rises after negative income shocks, as a rational borrower's would. However, workers fail the required arithmetic, and three quarters wrongly believe high advance contracts pay more. Returning a year later, I make the interest explicit in an information intervention. It does not shift beliefs or reduce demand. Errors that resist information may strengthen the case for regulating advances, though this would remove the poorest households' only source of credit.</p>
+</details>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var email = document.querySelector(".about-entity .subtitle");
+  var address = ["menna.bishop", "warwick.ac.uk"].join("@");
+  var link = document.createElement("a");
+  link.href = "mailto:" + address;
+  link.textContent = address;
+  email.textContent = "";
+  email.appendChild(link);
+});
+</script>
 
 
 </main></div>

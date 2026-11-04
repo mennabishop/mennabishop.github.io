@@ -4,37 +4,174 @@ h1, h2, h3, h4, h5, h6, .title, .navbar .nav-link, .navbar-title {
   letter-spacing: normal;
 }
 
-/* Abstract / course content toggle buttons */
+/* The Lux theme sets strong to normal weight. The font is loaded at 400 and 600 only */
+b, strong {
+  font-weight: 600;
+}
+
+/* Abstract / course content toggles: click to show the text */
 details summary {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 1em;
   cursor: pointer;
-  padding: 2px 10px;
-  border: 1px solid #999;
-  border-radius: 4px;
-  font-size: 0.85em;
+  list-style: none;
+}
+details summary::-webkit-details-marker {
+  display: none;
+}
+details summary:focus-visible {
+  outline: 2px solid #A24F46;
+  outline-offset: 3px;
 }
 details[open] summary {
   margin-bottom: 0.5em;
 }
+.abstract-toggle {
+  font-size: 0.85em;
+  font-weight: 600;
+  color: #A24F46;
+}
+.abstract-toggle::after {
+  content: "";
+  display: inline-block;
+  width: 0.45em;
+  height: 0.45em;
+  margin-left: 0.5em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: translateY(-0.15em) rotate(45deg);
+}
+details[open] .abstract-toggle::after {
+  transform: translateY(0.05em) rotate(-135deg);
+}
+summary:hover .abstract-toggle {
+  text-decoration: underline;
+}
+
+/* Paper, chapter and course page buttons */
 a.paper-link {
   display: inline-block;
   padding: 3px 12px;
   border-radius: 4px;
-  background: #1a1a1a;
-  color: #fff;
+  background: #f4e9e7;
+  color: #A24F46;
   font-size: 0.85em;
   font-weight: 600;
-  margin-left: 0.75em;
   text-decoration: none;
 }
 a.paper-link:hover {
-  background: #444;
-  color: #fff;
+  background: #ead6d3;
+  color: #A24F46;
+}
+
+/* Narrower photo column on the home page, leaving more room for the text (theme default 42%) */
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 34%;
+    padding-right: 0.5em;
+  }
+}
+
+/* Bold text on the home page in the same black as the links */
+div.quarto-about-trestles .about-contents strong {
+  color: #1a1a1a;
+}
+
+/* Email under the name in the home page photo column */
+div.quarto-about-trestles .about-entity .subtitle {
+  margin-top: 0.5em;
+  font-size: 0.85rem;
+  letter-spacing: normal;
+  white-space: nowrap;
+}
+#title-block-header .subtitle a {
+  text-decoration: underline;
+}
+
+/* Job market paper box on the home page: click anywhere to show the abstract */
+details.jmp-box {
+  margin-top: 1.75em;
+  border: 1px solid #A24F46;
+  border-radius: 6px;
+}
+details.jmp-box summary {
+  display: block;
+  padding: 1em 1.25em;
+  border-radius: 5px;
+}
+details.jmp-box summary:hover {
+  background: #faf4f3;
+}
+details.jmp-box[open] summary {
+  margin-bottom: 0;
+}
+.jmp-label {
+  display: block;
+  color: #A24F46;
+  font-size: 0.8em;
+  font-weight: 600;
+}
+.jmp-title {
+  display: block;
+  margin-top: 0.2em;
+  font-size: 1.15em;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+.jmp-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.75em;
+}
+.jmp-abstract {
+  margin: 0;
+  padding: 0.25em 1.25em 1.25em;
+  font-size: 0.95em;
+}
+
+/* Research page: more space between categories than between papers */
+.research-page section.level2 + section.level2 > h2 {
+  margin-top: 3.25rem;
+}
+.paper {
+  margin-bottom: 2rem;
+}
+.paper:last-child {
+  margin-bottom: 0;
+}
+.paper > p > a.paper-link {
+  margin-top: 0.6em;
+}
+
+/* Paper status, e.g. Submitted */
+.paper-status {
+  display: inline-block;
+  margin-left: 0.6em;
+  color: #A24F46;
+  font-size: 0.85em;
+  font-weight: 600;
+  white-space: nowrap;
 }
 
 /* Space between courses on the teaching page */
 .course {
   margin-bottom: 2em;
+}
+
+/* Entries on the research and teaching pages */
+.paper p, .course p {
+  margin-bottom: 0.15em;
+}
+.paper p:first-child strong, .course p:first-child strong {
+  color: #1a1a1a;
+}
+.paper details, .course details {
+  margin-top: 0.6em;
+}
+.paper details p, .course details p {
+  margin: 0;
 }
 
 /* Larger navbar text */
