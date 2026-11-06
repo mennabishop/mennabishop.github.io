@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
     - jmp/index.html
+    - jmp_slides/index.html
     - cv/index.html
     - files/*.pdf
     - robots.txt
