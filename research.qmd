@@ -62,6 +62,19 @@ As labour leaves agriculture in Sub-Saharan Africa, workers rarely find well-pai
 </details>
 :::
 
+::: paper
+**Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?**
+
+*With Immanuel Feld, [Thiemo Fetzer](https://www.trfetzer.com/) and [Ludovica Gazzè](https://sites.google.com/view/ludovicagazze).*
+
+<details>
+<summary><span class="abstract-toggle">Abstract</span></summary>
+
+Can evidence tailored to local public actors, that is policy makers and media, increase residential energy efficiency investments? During the 2022 energy crisis, we randomly assigned local authorities in England and Wales to an outreach treatment. Councillors, council officers, and local media in treated authorities received localized estimates of household exposure to rising energy prices and potential savings from retrofits. Treatment increased retrofit installations by 7 percent, mainly through solar photovoltaics, with no detectable change in energy consumption. Installations were concentrated near councillors' homes, a pattern consistent with local diffusion of the information through policy makers.
+
+</details>
+:::
+
 ## Publications
 
 ::: paper

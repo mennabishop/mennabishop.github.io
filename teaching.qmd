@@ -18,23 +18,23 @@ This module looks at a range of economic problems in low-income countries. It sh
 ## London School of Economics
 
 ::: course
-**Microeconomic Principles I (EC201)**, 2020-21
-
-<details>
-<summary><span class="abstract-toggle">Course content</span></summary>
-
-This is an intermediate course in microeconomic analysis. It gives a broad overview of economic principles, including some recent developments in thinking, and teaches students to apply the tools of microeconomics to concrete economic problems. The course starts with consumer theory, covering preferences and utility, demand, income and substitution effects and welfare analysis, with applications to savings and labour supply. It then moves on to behavioural economics and decision-making under risk, including expected utility, insurance and prospect theory. Producer theory covers production and cost functions, supply and market structure, and game theory is applied to oligopoly and auctions. Later topics include general equilibrium, efficiency and inequality, public goods and externalities, political economy, contracts under moral hazard and adverse selection, and innovation, along with the role of government in each.
-
-</details>
-:::
-
-::: course
-**Economics B (EC102)**, 2019-20
+**Economics B (EC102)**, 2020-21
 
 <details>
 <summary><span class="abstract-toggle">Course content</span></summary>
 
 This is an introductory course in microeconomics and macroeconomics. The first half covers consumer and producer theory, markets and competition, welfare, game theory, and adverse selection and moral hazard. The second half covers how the aggregate economy is measured, growth and development, economic fluctuations, stabilisation policy, money and inflation, unemployment, and financial and sovereign crises.
+
+</details>
+:::
+
+::: course
+**Microeconomic Principles I (EC201)**, 2019-20
+
+<details>
+<summary><span class="abstract-toggle">Course content</span></summary>
+
+This is an intermediate course in microeconomic analysis. It gives a broad overview of economic principles, including some recent developments in thinking, and teaches students to apply the tools of microeconomics to concrete economic problems. The course starts with consumer theory, covering preferences and utility, demand, income and substitution effects and welfare analysis, with applications to savings and labour supply. It then moves on to behavioural economics and decision-making under risk, including expected utility, insurance and prospect theory. Producer theory covers production and cost functions, supply and market structure, and game theory is applied to oligopoly and auctions. Later topics include general equilibrium, efficiency and inequality, public goods and externalities, political economy, contracts under moral hazard and adverse selection, and innovation, along with the role of government in each.
 
 </details>
 :::
