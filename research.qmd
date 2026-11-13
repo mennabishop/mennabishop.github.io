@@ -34,6 +34,19 @@ Towns and cities create jobs and income. Can the arrival of new jobs also create
 </details>
 :::
 
+::: paper
+**Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?**
+
+*With [Immanuel Feld](https://immanuelfeld.github.io/), [Thiemo Fetzer](https://www.trfetzer.com/) and [Ludovica Gazzè](https://sites.google.com/view/ludovicagazze).*
+
+<details>
+<summary><span class="abstract-toggle">Abstract</span><a class="paper-link" href="files/energy_rct.pdf" target="_blank">Paper</a></summary>
+
+Can evidence tailored to local public actors, that is policy makers and media, increase residential energy efficiency investments? During the 2022 energy crisis, we randomly assigned local authorities in England and Wales to an outreach treatment. Councillors, council officers, and local media in treated authorities received localized estimates of household exposure to rising energy prices and potential savings from retrofits. Treatment increased retrofit installations by 7 percent, mainly through solar photovoltaics, with no detectable change in energy consumption. Installations were concentrated near councillors' homes, a pattern consistent with local diffusion of the information through policy makers.
+
+</details>
+:::
+
 ## Work in Progress
 
 ::: paper
@@ -58,19 +71,6 @@ Do the poor have high returns from trainable human capital? Can they afford to p
 <summary><span class="abstract-toggle">Abstract</span></summary>
 
 As labour leaves agriculture in Sub-Saharan Africa, workers rarely find well-paid jobs and cities struggle to absorb rural migrants. This project asks whether agroprocessing employers in rural Kenya can generate local agglomeration, change family formation and ease migration pressure on cities. We also ask whether the answer depends on who gets the jobs. Industries with stronger demand for female labour may draw women out of home production, changing who gains from new jobs and how households decide on fertility and migration. We build a geocoded dataset of firm entry across eight industries, among them flowers, tea, sugarcane and coffee, from official registers and satellite imagery. We link it to the 1999, 2009 and 2019 Kenyan censuses using digitised enumeration area boundaries, which let us track the employment, fertility and migration of individuals living near each firm. A shift-share design based on geographic suitability and global demand identifies the effects of firm entry. These estimates will feed into a spatial equilibrium model with gendered labour demand and household choices over work, location and fertility, which we will use to compare policies that attract firms with transport cost reductions.
-
-</details>
-:::
-
-::: paper
-**Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?**
-
-*With [Immanuel Feld](https://immanuelfeld.github.io/), [Thiemo Fetzer](https://www.trfetzer.com/) and [Ludovica Gazzè](https://sites.google.com/view/ludovicagazze).*
-
-<details>
-<summary><span class="abstract-toggle">Abstract</span></summary>
-
-Can evidence tailored to local public actors, that is policy makers and media, increase residential energy efficiency investments? During the 2022 energy crisis, we randomly assigned local authorities in England and Wales to an outreach treatment. Councillors, council officers, and local media in treated authorities received localized estimates of household exposure to rising energy prices and potential savings from retrofits. Treatment increased retrofit installations by 7 percent, mainly through solar photovoltaics, with no detectable change in energy consumption. Installations were concentrated near councillors' homes, a pattern consistent with local diffusion of the information through policy makers.
 
 </details>
 :::
