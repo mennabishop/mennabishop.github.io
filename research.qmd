@@ -13,7 +13,7 @@ body-classes: research-page
 <details>
 <summary><span class="abstract-toggle">Abstract</span><a class="paper-link" href="files/Bishop_JMP.pdf" target="_blank">Paper</a></summary>
 
-Bonded workers take credit from their employer, voluntarily forgoing the freedom to leave until this debt is repaid. This paper asks why, using India's brick kilns as a setting. Kilns recruit their 15 million migrant workers with advance payments, later deducted from earnings. Larger advances carry implicit interest: workers taking them are paid less per brick. Partnering with employers, I advertise real vacancies with randomised terms to 1,494 Odisha households. Applicants favour high advance contracts by 10 percentage points, implicitly borrowing at over 700% annually. Demand concentrates amongst credit constrained workers and rises after negative income shocks, as a rational borrower's would. However, workers fail the required arithmetic, and three quarters wrongly believe high advance contracts pay more. Returning a year later, I make the interest explicit in an information intervention. It does not shift beliefs or reduce demand. Errors that resist information may strengthen the case for regulating advances, though this would remove the poorest households' only source of credit.
+India's 15 million migrant brick kiln workers take high-interest advances from their employers that bind them to the job until repaid from earnings. I measure demand for this costly form of borrowing, test what drives it, and evaluate an intervention designed to reduce it. The interest is built into the piece rate: workers taking larger advances are paid less per brick. I run a real-stakes recruitment experiment with kiln employers, advertising vacancies to 1,494 households at randomised terms that embed this interest cost. Applicants favour high advance contracts by 10 percentage points, implicitly borrowing at over 700% annually. Demand concentrates among credit constrained workers and spikes after negative income shocks, consistent with consumption smoothing. However, workers fail the required arithmetic, and three quarters wrongly believe high advance contracts pay more. In a second experiment, I make the interest explicit. It does not shift beliefs or reduce demand. This may strengthen the case for regulating advances, but a calibration shows that banning high advance contracts would hurt the poorest households, who cannot borrow elsewhere.
 
 
 </details>
@@ -22,7 +22,7 @@ Bonded workers take credit from their employer, voluntarily forgoing the freedom
 ## Working Papers
 
 ::: paper
-**Blossoming Towns** [Submitted]{.paper-status}
+**Blossoming Towns** [Submitted]{.paper-status .submitted}
 
 *With [Niclas Moneke](https://niclasmoneke.com/) and [Céline Zipfel](https://sites.google.com/view/celinezipfel/home).*
 
@@ -35,7 +35,7 @@ Towns and cities create jobs and income. Can the arrival of new jobs also create
 :::
 
 ::: paper
-**Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?**
+**Weathering the Energy Crisis: Can Tailored Information to Local Governments and Media Spur Climate Action?** [Submitted]{.paper-status .submitted}
 
 *With [Immanuel Feld](https://immanuelfeld.github.io/), [Thiemo Fetzer](https://www.trfetzer.com/) and [Ludovica Gazzè](https://sites.google.com/view/ludovicagazze).*
 

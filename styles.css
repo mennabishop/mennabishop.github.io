@@ -154,6 +154,11 @@ details.jmp-box[open] summary {
   font-weight: 600;
   white-space: nowrap;
 }
+.paper-status.submitted {
+  color: #46A27D;
+  border-bottom: 2px solid currentColor;
+  padding-bottom: 1px;
+}
 
 /* Space between courses on the teaching page */
 .course {
